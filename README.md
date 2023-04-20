@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... nothing for now
 - 📫 How to reach me ...  @anonys6
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
 <a href=#><img src="contributions.svg"></a>
 <!---
 anonys6/anonys6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
