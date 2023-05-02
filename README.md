@@ -6,8 +6,12 @@
 
 ![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
 
-  <img align="left" alt="anonys6's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anonys6&show_icons=true&theme=transparent" />
+<!-- GITHUB STATS  -->
+<img align="left" alt="anonys6's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anonys6&show_icons=true&theme=transparent" />
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent -->
+
+<!-- MOST USED LANGUAGE  -->
+<!-- <img align="right" alt="anonys6's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonys6" /> -->
 
 <a href=#><img src="contributions.svg"></a>
 <!---
