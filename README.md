@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=anonys6">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anonys6"> -->
 <!-- https://github-readme-stats-anonys6.vercel.app/ -->
 <a href=#><img src="contributions.svg"></a>
 <!---
