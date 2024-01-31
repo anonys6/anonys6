@@ -1,8 +1,9 @@
 # Hello, World! 👋
 
-I'm @anonys6, a passionate self-taught web developer from the internet.
+I'm @anonys6, a Computer Science student with a passion for web development.
 
-- 🌱 I’m currently learning web development
+- 🎓 I’m currently pursuing a Bachelor's degree in Computer Science
+- 🌱 I’m currently enhancing my skills in web development
 - 👀 I’m interested in almost everything
 - 📫 How to reach me: [@anonys6](https://github.com/anonys6)
 
