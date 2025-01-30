@@ -1,13 +1,17 @@
 # Hello, World! 👋
 
-I'm @anonys6, a Computer Science student with a passion for web development.
+I'm **@anonys6**, a Computer Science student and Full-Stack Developer specializing in **React**, **Next.js**, **Node.js**, and **Tailwind CSS**. I love building projects that are user-friendly, scalable, and follow best coding practices.
 
-- 🎓 I’m currently pursuing a Bachelor's degree in Computer Science
-- 🌱 I’m currently enhancing my skills in web development
-- 👀 I’m interested in almost everything
-- 📫 How to reach me: [@anonys6](https://github.com/anonys6)
+- 🎓 Currently pursuing a Bachelor's in Computer Science  
+- 🌱 Improving my skills in DevOps (Docker, Kubernetes, Jenkins) and Cloud (AWS, Azure)  
+- 🚀 Interested in Android development (Kotlin) and cross-platform apps (React Native)  
+- 👀 Exploring Data Structures & Algorithms, Cloud Security, and Serverless Computing  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/anonys6) | [GitHub](https://github.com/anonys6)
 
 ![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
+
+
+---
 
 ## 📈 GitHub Stats
 
