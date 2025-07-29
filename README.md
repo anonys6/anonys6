@@ -6,7 +6,7 @@ I'm **@anonys6**, a Computer Science student and Full-Stack Developer specializi
 - 🌱 Improving my skills in DevOps (Docker, Kubernetes, Jenkins) and Cloud (AWS, Azure)  
 - 🚀 Interested in Android development (Kotlin) and cross-platform apps (React Native)  
 - 👀 Exploring Data Structures & Algorithms, Cloud Security, and Serverless Computing  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/anonys6) | [GitHub](https://github.com/anonys6)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/anonys6)
 
 ![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
 
