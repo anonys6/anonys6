@@ -15,7 +15,7 @@ I'm **@anonys6**, a Computer Science student and Full-Stack Developer specializi
 
 ## 📈 GitHub Stats
 
-<img align="left" alt="anonys6's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anonys6&show_icons=true&theme=transparent" />
+<!-- <img align="left" alt="anonys6's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anonys6&show_icons=true&theme=transparent" /> -->
 
 <!-- Uncomment this section if you want to display your most used languages
 ## 🏆 Most Used Languages
